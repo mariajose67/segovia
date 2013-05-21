@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Es un archivo</title>
+</head>
+
+<body>
+<p>Es un archivo de prueba</p>
+</body>
+
+
+
+</html>
